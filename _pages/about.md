@@ -93,7 +93,7 @@ My research interest includes deep generative models with their applications.
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 🚀 Teaching
+# 💡 Teaching
 - *2022.02 - 2022.05*, MATH 2421 Probability, Teaching Assistant, HKUST. 
 - *2021.09 - 2021.12*, MATH 2411 Applied Statistics, Teaching Assistant, HKUST. 
 - *2021.02 - 2021.05*, MATH 3033 Real Analysis, Teaching Assistant, HKUST. 
