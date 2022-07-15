@@ -52,7 +52,23 @@ My research interest includes deep generative models with their applications.
 
   **Gefei Wang**, Yuling Jiao, Qian Xu, Yang Wang, Can Yang.
 
-  Proceedings of the 38th International Conference on Machine Learning. 2021: 10794-10804.
+  *Proceedings of the 38th International Conference on Machine Learning. 2021: 10794-10804.*
+  
+- **Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.12.469460v1)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+  
+  **The Tabula Microcebus Consortium**#, Camille Ezran*, Shixuan Liu*, Stephen Chang*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree,  Kyle J. Travaglini, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff,  Angela Wu, Stephen R. Quake, Mark A. Krasnow. 
+  
+  #Gefei Wang is a member of the Tabula Microcebus Consortium.
+  
+  *bioRxiv 2021; doi: https://doi.org/10.1101/2021.12.12.469460.*
+
+- **An organism-wide atlas of hormonal signaling based on the mouse lemur single-cell transcriptome. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.13.472243v1)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+  
+  Shixuan Liu, Camille Ezran, Michael F. Z. Wang, Zhengda Li, **The Tabula Microcebus Consortium**#, Jonathon Z. Long, Iwijn De Vlaminck, Sheng Wang, Christin Kuo, Jacques Epelbaum, Jeremy Terrien, Mark A. Krasnow, James E. Ferrell, Jr..
+  
+  #Gefei Wang is a member of the Tabula Microcebus Consortium.
+  
+  *bioRxiv 2021; doi: https://doi.org/10.1101/2021.12.13.472243.*
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -76,3 +92,17 @@ My research interest includes deep generative models with their applications.
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 🚀 Teaching
+- *2022.02 - 2022.05*, MATH 2421 Probability, Teaching Assistant, HKUST. 
+- *2021.09 - 2021.12*, MATH 2411 Applied Statistics, Teaching Assistant, HKUST. 
+- *2021.02 - 2021.05*, MATH 3033 Real Analysis, Teaching Assistant, HKUST. 
+- *2020.09 - 2020.12*, MFIT 5010 Statistical Machine Learning, Teaching Assistant, HKUST. 
+- *2020.09 - 2020.12*, MATH 1013 Calculus IB, Teaching Assistant, HKUST. 
+- *2020.02 - 2020.05*, MAFS 6010S Machine Learning and its Applications, Teaching Assistant, HKUST. 
+- *2020.02 - 2020.05*, MATH 1014 Calculus II, Teaching Assistant, HKUST. 
+- *2017.08*, Volunteer teacher in Wanyuan Middle School, Sichuan Province. 
+
+# 🌍 Contact 
+- Email: gwangas[at]connect[dot]ust[dot]hk
+- Address: Room 4381, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China
