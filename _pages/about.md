@@ -22,13 +22,13 @@ I am a third year Ph.D. candidate supervised by Prof. Can Yang and Prof. Yang Wa
 My research interest includes deep generative models with their applications.
 
 
-# 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
- -->
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 # 📝 Publications 
-<!-- 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -38,21 +38,41 @@ My research interest includes deep generative models with their applications.
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
- -->
+\* Joint first authors. 
+
+- **Adversarial domain translation networks for integrating large-scale atlas-level single-cell datasets. \[[Nature Computational Science](https://www.nature.com/articles/s43588-022-00251-y)\] \[[Read fulltext](https://rdcu.be/cOCbU)\] \[[bioRvix](https://doi.org/10.1101/2021.11.16.468892)\] \[[Blog](https://bioengineeringcommunity.nature.com/posts/behind-the-paper-adversarial-domain-translation-networks-for-integrating-large-scale-atlas-level-single-cell-datasets)\] \[[Software](https://github.com/YangLabHKUST/Portal)\]**
+
+  Jia Zhao*, **Gefei Wang** *, Jingsi Ming, Zhixiang Lin, Yang Wang, The Tabula Microcebus Consortium#, Angela Ruohao Wu, Can Yang. #Gefei Wang is a member of the Tabula Microcebus Consortium.
+
+  *Nature Computational Science. 2022, 2(5): 317-330.*
+
+- **Deep Generative Learning via Schrödinger Bridge. \[[ICML](https://proceedings.mlr.press/v139/wang21l.html)\] \[[arXiv](https://arxiv.org/abs/2106.10410)\] \[[Code](https://github.com/YangLabHKUST/DGLSB)\]**
+
+  **Gefei Wang**, Yuling Jiao, Qian Xu, Yang Wang, Can Yang.
+
+  Proceedings of the 38th International Conference on Machine Learning. 2021: 10794-10804.
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
 # 🎖 Honors and Awards
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2022.05*, HKUST RedBird Academic Excellence Award, HKUST.
+- *2022.05*, Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST.
+- *2022.05*, Epsilon Fund Award, Department of Mathematics, HKUST.
+- *2019.11*, HKUST Excellent Research Award, HKUST. 
+- *2019.09 - Now*, Hong Kong PhD Fellowship, Research Grants Council, University Grants Committee. 
+- *2019.05*, Outstanding Graduate, Beijing Municipal Commission of Education. 
+- *2019.05*, Outstanding Graduate, Beijing Normal University. 
+- *2018.12*, National Scholarship, Ministry of Education of the People's Republic of China. 
+- *2016.12, 2017.12 and 2018.12*, First-class Scholarship, Beijing Normal University. 
 
 # 📖 Educations
-<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2019.09 - Now*, Ph.D. in Mathematics, The Hong Kong University of Science and Technology. 
+- *2015.09 - 2019.06*, B.Sc. in Mathematics and Applied Mathematics, Beijing Normal University. 
 
 # 💬 Invited Talks
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
- -->
-# 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2021.07*, Deep Generative Learning via Schrödinger Bridge, The First Zhuhai-Hong Kong-Macao Forum on Statistics and Data Science. 
+
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
