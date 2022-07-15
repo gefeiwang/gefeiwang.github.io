@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Gefei Wang's homepage"
-description              : #""
+description              : "Ph.D. Candidate"
 repository               : "gefeiwang/gefeiwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "gwangas@connect.ust.hk"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Gefei_Wang6"# e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "gefeiwang" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
