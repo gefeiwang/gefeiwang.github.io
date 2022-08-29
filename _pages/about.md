@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third year Ph.D. candidate supervised by Prof. Can Yang and Prof. Yang Wang in the Department of Mathematics, The Hong Kong University of Science and Technology.
+I am a fourth year Ph.D. candidate supervised by Prof. Can Yang and Prof. Yang Wang in the Department of Mathematics, The Hong Kong University of Science and Technology.
 
 My research interest includes deep generative models with their applications.
 
