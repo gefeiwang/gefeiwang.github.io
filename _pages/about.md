@@ -54,6 +54,14 @@ My research interest includes deep generative models with their applications.
 
   *International Conference on Machine Learning. 2021, 10794-10804.*
   
+- **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503035v1)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+  
+  **The Tabula Microcebus Consortium**#, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake, Mark A. Krasnow.
+  
+  #Gefei Wang is a member of the Tabula Microcebus Consortium.
+  
+  *bioRxiv 2022; doi: https://doi.org/10.1101/2022.08.06.503035.*
+  
 - **Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.12.469460v1)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
   **The Tabula Microcebus Consortium**#, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree,  Kyle J. Travaglini, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff,  Angela Wu, Stephen R. Quake, Mark A. Krasnow. 
@@ -94,6 +102,7 @@ My research interest includes deep generative models with their applications.
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 💡 Teaching
+- *2022.09 - 2022.12*, MATH 3423 Statistical Inference, Teaching Assistant, HKUST. 
 - *2022.02 - 2022.05*, MATH 2421 Probability, Teaching Assistant, HKUST. 
 - *2021.09 - 2021.12*, MATH 2411 Applied Statistics, Teaching Assistant, HKUST. 
 - *2021.02 - 2021.05*, MATH 3033 Real Analysis, Teaching Assistant, HKUST. 
