@@ -53,7 +53,13 @@ My research interest includes deep generative models with their applications.
   **Gefei Wang**, Yuling Jiao, Qian Xu, Yang Wang, Can Yang.
 
   *International Conference on Machine Learning. 2021, 10794-10804.*
+
+- **Organoid-based single-cell spatiotemporal gene expression landscape of human embryonic development and hematopoiesis. \[[bioRxiv](https://www.biorxiv.org/10.1101/2022.09.02.505700v1)\]**
   
+  Yiming Chao, Yang Xiang, Jiashun Xiao, Shihui Zhang, Weizhong Zheng, Xiaomeng Wan, Zhuoxuan Li, Mingze Gao, **Gefei Wang**, Zhilin Chen, Mo Ebrahimkhani, Can Yang, Angela Ruohao Wu, Pentao Liu, Yuanhua Huang, Ryohichi Sugimura.
+  
+  *bioRxiv 2022; doi: https://doi.org/10.1101/2022.09.02.505700.*
+
 - **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503035v1)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
   **The Tabula Microcebus Consortium**#, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake, Mark A. Krasnow.
@@ -114,4 +120,4 @@ My research interest includes deep generative models with their applications.
 
 # 🌍 Contact 
 - Email: gwangas[at]connect[dot]ust[dot]hk
-- Address: Room 4381, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China
+- Address: Room 1001, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China
