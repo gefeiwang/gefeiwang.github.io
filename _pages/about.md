@@ -42,6 +42,8 @@ My research interest includes deep generative models with their applications.
 
 \* Joint first authors. 
 
+## Publications
+
 - **Adversarial domain translation networks for integrating large-scale atlas-level single-cell datasets. \[[Nature Computational Science](https://www.nature.com/articles/s43588-022-00251-y)\] \[[Read fulltext](https://rdcu.be/cOCbU)\] \[[bioRvix](https://doi.org/10.1101/2021.11.16.468892)\] \[[Blog](https://bioengineeringcommunity.nature.com/posts/behind-the-paper-adversarial-domain-translation-networks-for-integrating-large-scale-atlas-level-single-cell-datasets)\] \[[Software](https://github.com/YangLabHKUST/Portal)\]**
 
   Jia Zhao*, **Gefei Wang**\*, Jingsi Ming, Zhixiang Lin, Yang Wang, The Tabula Microcebus Consortium#, Angela Ruohao Wu, Can Yang. #Gefei Wang is a member of the Tabula Microcebus Consortium.
@@ -53,6 +55,14 @@ My research interest includes deep generative models with their applications.
   **Gefei Wang**, Yuling Jiao, Qian Xu, Yang Wang, Can Yang.
 
   *International Conference on Machine Learning. 2021, 10794-10804.*
+
+## Preprints
+
+- **Construction of a 3D whole organism spatial atlas by joint modeling of multiple slices. \[[bioRxiv](https://doi.org/10.1101/2023.02.02.526814)\] \[[Software](https://github.com/YangLabHKUST/STitch3D)\] \[[Project Website](https://stitch3d-tutorial.readthedocs.io/en/latest/index.html)\]**
+
+  **Gefei Wang**\*, Jia Zhao*, Yan Yan, Yang Wang, Angela Ruohao Wu, Can Yang.
+  
+  *bioRxiv 2023; doi: https://doi.org/10.1101/2023.02.02.526814.*
 
 - **Organoid-based single-cell spatiotemporal gene expression landscape of human embryonic development and hematopoiesis. \[[bioRxiv](https://www.biorxiv.org/10.1101/2022.09.02.505700v1)\]**
   
