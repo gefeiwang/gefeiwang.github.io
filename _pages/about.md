@@ -64,9 +64,9 @@ My research interest includes deep generative models with their applications.
   
   *bioRxiv 2023; doi: https://doi.org/10.1101/2023.02.02.526814.*
 
-- **Organoid-based single-cell spatiotemporal gene expression landscape of human embryonic development and hematopoiesis. \[[bioRxiv](https://www.biorxiv.org/10.1101/2022.09.02.505700v1)\]**
+- **Organoid-based single-cell spatiotemporal gene expression landscape of human embryonic development and hematopoiesis. \[[bioRxiv](https://doi.org/10.1101/2022.09.02.505700)\]**
   
-  Yiming Chao, Yang Xiang, Jiashun Xiao, Shihui Zhang, Weizhong Zheng, Xiaomeng Wan, Zhuoxuan Li, Mingze Gao, **Gefei Wang**, Zhilin Chen, Mo Ebrahimkhani, Can Yang, Angela Ruohao Wu, Pentao Liu, Yuanhua Huang, Ryohichi Sugimura.
+  Yiming Chao*, Yang Xiang*, Jiashun Xiao, Shihui Zhang, Weizhong Zheng, Xiaomeng Wan, Zhuoxuan Li, Mingze Gao, **Gefei Wang**, Zhilin Chen, Mo Ebrahimkhani, Can Yang, Angela Ruohao Wu, Pentao Liu, Yuanhua Huang, Ryohichi Sugimura.
   
   *bioRxiv 2022; doi: https://doi.org/10.1101/2022.09.02.505700.*
 
