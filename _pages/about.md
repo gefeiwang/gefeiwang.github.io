@@ -64,12 +64,6 @@ My research interest includes deep generative models with their applications.
   
   *bioRxiv 2023; doi: https://doi.org/10.1101/2023.02.02.526814.*
 
-- **Organoid-based single-cell spatiotemporal gene expression landscape of human embryonic development and hematopoiesis. \[[bioRxiv](https://doi.org/10.1101/2022.09.02.505700)\]**
-  
-  Yiming Chao\*, Yang Xiang\*, Jiashun Xiao, Shihui Zhang, Weizhong Zheng, Xiaomeng Wan, Zhuoxuan Li, Mingze Gao, **Gefei Wang**, Zhilin Chen, Mo Ebrahimkhani, Can Yang, Angela Ruohao Wu, Pentao Liu, Yuanhua Huang, Ryohichi Sugimura.
-  
-  *bioRxiv 2022; doi: https://doi.org/10.1101/2022.09.02.505700.*
-
 - **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503035v1)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
   **The Tabula Microcebus Consortium**#, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake, Mark A. Krasnow.
@@ -97,7 +91,7 @@ My research interest includes deep generative models with their applications.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2022.05*, HKUST RedBird Academic Excellence Award, HKUST.
+- *2022.05, 2023.05*, HKUST RedBird Academic Excellence Award, HKUST.
 - *2022.05*, Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST.
 - *2022.05*, Epsilon Fund Award, Department of Mathematics, HKUST.
 - *2019.11*, HKUST Excellent Research Award, HKUST. 
