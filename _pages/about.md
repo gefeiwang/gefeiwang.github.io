@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth year Ph.D. candidate supervised by Prof. Can Yang and Prof. Yang Wang in the Department of Mathematics, The Hong Kong University of Science and Technology.
+I am a postdoctoral associate in the Yale School of Public Health, Department of Biostatistics.
 
-My research interest includes deep generative models with their applications.
+My research interest includes deep learning with its applications in biological data analysis.
 
 
 <!-- # 🔥 News
@@ -44,6 +44,12 @@ My research interest includes deep generative models with their applications.
 
 ## Publications
 
+- **Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. \[[bioRxiv](https://doi.org/10.1101/2023.02.02.526814)\] \[[Software](https://github.com/YangLabHKUST/STitch3D)\] \[[Project Website](https://stitch3d-tutorial.readthedocs.io/en/latest/index.html)\]**
+
+  **Gefei Wang**\*, Jia Zhao\*, Yan Yan, Yang Wang, Angela Ruohao Wu, Can Yang.
+  
+  *Nature Machine Intelligence. In press. 2023.*
+
 - **Adversarial domain translation networks for integrating large-scale atlas-level single-cell datasets. \[[Nature Computational Science](https://www.nature.com/articles/s43588-022-00251-y)\] \[[Read fulltext](https://rdcu.be/cOCbU)\] \[[bioRvix](https://doi.org/10.1101/2021.11.16.468892)\] \[[Blog](https://bioengineeringcommunity.nature.com/posts/behind-the-paper-adversarial-domain-translation-networks-for-integrating-large-scale-atlas-level-single-cell-datasets)\] \[[Software](https://github.com/YangLabHKUST/Portal)\]**
 
   Jia Zhao\*, **Gefei Wang**\*, Jingsi Ming, Zhixiang Lin, Yang Wang, The Tabula Microcebus Consortium#, Angela Ruohao Wu, Can Yang. #Gefei Wang is a member of the Tabula Microcebus Consortium.
@@ -57,12 +63,6 @@ My research interest includes deep generative models with their applications.
   *International Conference on Machine Learning. 2021, 10794-10804.*
 
 ## Preprints
-
-- **Construction of a 3D whole organism spatial atlas by joint modeling of multiple slices. \[[bioRxiv](https://doi.org/10.1101/2023.02.02.526814)\] \[[Software](https://github.com/YangLabHKUST/STitch3D)\] \[[Project Website](https://stitch3d-tutorial.readthedocs.io/en/latest/index.html)\]**
-
-  **Gefei Wang**\*, Jia Zhao\*, Yan Yan, Yang Wang, Angela Ruohao Wu, Can Yang.
-  
-  *bioRxiv 2023; doi: https://doi.org/10.1101/2023.02.02.526814.*
 
 - **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503035v1)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
@@ -95,14 +95,14 @@ My research interest includes deep generative models with their applications.
 - *2022.05*, Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST.
 - *2022.05*, Epsilon Fund Award, Department of Mathematics, HKUST.
 - *2019.11*, HKUST Excellent Research Award, HKUST. 
-- *2019.09 - Now*, Hong Kong PhD Fellowship, Research Grants Council, University Grants Committee. 
+- *2019.09 - 2023.08*, Hong Kong PhD Fellowship, Research Grants Council, University Grants Committee. 
 - *2019.05*, Outstanding Graduate, Beijing Municipal Commission of Education. 
 - *2019.05*, Outstanding Graduate, Beijing Normal University. 
 - *2018.12*, National Scholarship, Ministry of Education of the People's Republic of China. 
 - *2016.12, 2017.12 and 2018.12*, First-class Scholarship, Beijing Normal University. 
 
 # 📖 Educations
-- *2019.09 - Now*, Ph.D. in Mathematics, The Hong Kong University of Science and Technology. 
+- *2019.09 - 2023.08*, Ph.D. in Mathematics, The Hong Kong University of Science and Technology. Advisors: Prof. Can Yang and Prof. Yang Wang.
 - *2015.09 - 2019.06*, B.Sc. in Mathematics and Applied Mathematics, Beijing Normal University. 
 
 # 💬 Invited Talks
@@ -124,5 +124,5 @@ My research interest includes deep generative models with their applications.
 - *2017.08*, Volunteer teacher in Wanyuan Middle School, Sichuan Province. 
 
 # 🌍 Contact 
-- Email: gwangas[at]connect[dot]ust[dot]hk
-- Address: Room 1001, Academic Building, HKUST, Clear Water Bay, Kowloon, Hong Kong SAR, China
+- Email: gefei.wang[at]yale[dot]edu
+- Address: 300 George Street, New Haven, CT 06511
