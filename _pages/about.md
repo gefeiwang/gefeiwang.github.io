@@ -44,11 +44,11 @@ My research interest includes deep learning with its applications in biological 
 
 ## Publications
 
-- **Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. \[[bioRxiv](https://doi.org/10.1101/2023.02.02.526814)\] \[[Software](https://github.com/YangLabHKUST/STitch3D)\] \[[Project Website](https://stitch3d-tutorial.readthedocs.io/en/latest/index.html)\]**
+- **Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. \[[Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00734-1)\] \[[Read fulltext](https://rdcu.be/doZ9u)\] \[[bioRxiv](https://doi.org/10.1101/2023.02.02.526814)\] \[[Software](https://github.com/YangLabHKUST/STitch3D)\] \[[Project Website](https://stitch3d-tutorial.readthedocs.io/en/latest/index.html)\]**
 
   **Gefei Wang**\*, Jia Zhao\*, Yan Yan, Yang Wang, Angela Ruohao Wu, Can Yang.
   
-  *Nature Machine Intelligence. In press. 2023.*
+  *Nature Machine Intelligence. 2023.*
 
 - **Adversarial domain translation networks for integrating large-scale atlas-level single-cell datasets. \[[Nature Computational Science](https://www.nature.com/articles/s43588-022-00251-y)\] \[[Read fulltext](https://rdcu.be/cOCbU)\] \[[bioRvix](https://doi.org/10.1101/2021.11.16.468892)\] \[[Blog](https://bioengineeringcommunity.nature.com/posts/behind-the-paper-adversarial-domain-translation-networks-for-integrating-large-scale-atlas-level-single-cell-datasets)\] \[[Software](https://github.com/YangLabHKUST/Portal)\]**
 
