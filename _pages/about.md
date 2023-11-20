@@ -48,7 +48,7 @@ My research interest includes deep learning with its applications in biological 
 
   **Gefei Wang**\*, Jia Zhao\*, Yan Yan, Yang Wang, Angela Ruohao Wu, Can Yang.
   
-  *Nature Machine Intelligence. 2023.*
+  *Nature Machine Intelligence. 2023, 5(11): 1200–1213.*
 
 - **Adversarial domain translation networks for integrating large-scale atlas-level single-cell datasets. \[[Nature Computational Science](https://www.nature.com/articles/s43588-022-00251-y)\] \[[Read fulltext](https://rdcu.be/cOCbU)\] \[[bioRvix](https://doi.org/10.1101/2021.11.16.468892)\] \[[Blog](https://bioengineeringcommunity.nature.com/posts/behind-the-paper-adversarial-domain-translation-networks-for-integrating-large-scale-atlas-level-single-cell-datasets)\] \[[Software](https://github.com/YangLabHKUST/Portal)\]**
 
@@ -106,7 +106,8 @@ My research interest includes deep learning with its applications in biological 
 - *2015.09 - 2019.06*, B.Sc. in Mathematics and Applied Mathematics, Beijing Normal University. 
 
 # 💬 Invited Talks
-- *2023.03*, Construction of a 3D whole organism spatial atlas by joint modeling of multiple slices with deep neural networks, Capital of Statistics. \[[Video link](https://www.bilibili.com/video/BV1s24y1L7ku)\]
+- *2023.11*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks, Genome and AI Forum.
+- *2023.03*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks, Capital of Statistics. \[[Video link](https://www.bilibili.com/video/BV1s24y1L7ku)\]
 - *2021.07*, Deep Generative Learning via Schrödinger Bridge, The First Zhuhai-Hong Kong-Macao Forum on Statistics and Data Science. 
 
 <!-- # 💻 Internships
