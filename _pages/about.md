@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral associate in the Yale School of Public Health, Department of Biostatistics.
+I am currently a postdoctoral associate in the Yale School of Public Health, Department of Biostatistics, jointly advised by Prof. Hongyu Zhao and Prof. Yize Zhao. I completed my Ph.D. at the Hong Kong University of Science and Technology, under the supervision of Prof. Can Yang and Prof. Yang Wang.
 
-My research interest includes deep learning with its applications in biological data analysis.
+My research interests include the development of machine learning and deep learning methdologies with applications in biological data analysis.
 
 
 <!-- # 🔥 News
@@ -101,7 +101,7 @@ My research interest includes deep learning with its applications in biological 
 - *2018.12*, National Scholarship, Ministry of Education of the People's Republic of China. 
 - *2016.12, 2017.12 and 2018.12*, First-class Scholarship, Beijing Normal University. 
 
-# 📖 Educations
+# 🎓 Educations
 - *2019.09 - 2023.08*, Ph.D. in Mathematics, The Hong Kong University of Science and Technology. Advisors: Prof. Can Yang and Prof. Yang Wang.
 - *2015.09 - 2019.06*, B.Sc. in Mathematics and Applied Mathematics, Beijing Normal University. 
 
@@ -113,7 +113,7 @@ My research interest includes deep learning with its applications in biological 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 💡 Teaching
+# 📖 Teaching
 - *2022.09 - 2022.12*, MATH 3423 Statistical Inference, Teaching Assistant, HKUST. 
 - *2022.02 - 2022.05*, MATH 2421 Probability, Teaching Assistant, HKUST. 
 - *2021.09 - 2021.12*, MATH 2411 Applied Statistics, Teaching Assistant, HKUST. 
