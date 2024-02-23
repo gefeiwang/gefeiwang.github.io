@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xBuiA5AAAAAJ"
   email            : "gefei.wang@yale.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Gefei_Wang6"# e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
