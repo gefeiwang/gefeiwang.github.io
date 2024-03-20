@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral associate in the Yale School of Public Health, Department of Biostatistics, jointly advised by Prof. Hongyu Zhao and Prof. Yize Zhao. I completed my Ph.D. at the Hong Kong University of Science and Technology, under the supervision of Prof. Can Yang and Prof. Yang Wang.
+I am currently a postdoctoral associate in the Department of Biostatistics at Yale University, jointly advised by Prof. Hongyu Zhao and Prof. Yize Zhao. I completed my Ph.D. at the Hong Kong University of Science and Technology, under the supervision of Prof. Can Yang and Prof. Yang Wang.
 
 My research interests include the development of machine learning and deep learning methdologies with applications in biological data analysis.
 
@@ -26,7 +26,14 @@ My research interests include the development of machine learning and deep learn
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 💻 Professional Experience
+- *2023.10 - Now*, Postdoctoral Associate, Yale University.
+
+# 🎓 Education
+- *2019.09 - 2023.08*, Ph.D. in Mathematics, The Hong Kong University of Science and Technology.
+- *2015.09 - 2019.06*, B.Sc. in Mathematics and Applied Mathematics, Beijing Normal University.
+
+# 📝 Publications and Preprints
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,6 +50,14 @@ My research interests include the development of machine learning and deep learn
 \* Joint first authors. # Corresponding authors.
 
 ## Publications
+
+- **An organism-wide atlas of hormonal signaling based on the mouse lemur single-cell transcriptome. \[[Nature Communications](https://www.nature.com/articles/s41467-024-46070-9)\] \[[bioRxiv](https://doi.org/10.1101/2021.12.13.472243)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+  
+  Shixuan Liu, Camille Ezran, Michael F. Z. Wang, Zhengda Li, **The Tabula Microcebus Consortium**†, Jonathon Z. Long, Iwijn De Vlaminck, Sheng Wang, Christin Kuo, Jacques Epelbaum, Jeremy Terrien, Mark A. Krasnow#, James E. Ferrell, Jr.#.
+  
+  †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  
+  *Nature Communications. 2024, 15(1): 2188.*
 
 - **Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. \[[Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00734-1)\] \[[Read fulltext](https://rdcu.be/doZ9u)\] \[[bioRxiv](https://doi.org/10.1101/2023.02.02.526814)\] \[[Software](https://github.com/YangLabHKUST/STitch3D)\] \[[Project Website](https://stitch3d-tutorial.readthedocs.io/en/latest/index.html)\]**
 
@@ -64,7 +79,7 @@ My research interests include the development of machine learning and deep learn
 
 ## Preprints
 
-- **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.06.503035v1)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+- **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
   **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake#, Mark A. Krasnow#.
   
@@ -72,7 +87,7 @@ My research interests include the development of machine learning and deep learn
   
   *bioRxiv 2022; doi: https://doi.org/10.1101/2022.08.06.503035.*
   
-- **Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.12.469460v1)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+- **Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. \[[bioRxiv](https://doi.org/10.1101/2021.12.12.469460)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
   **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree,  Kyle J. Travaglini, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff,  Angela Wu, Stephen R. Quake#, Mark A. Krasnow#. 
   
@@ -80,13 +95,6 @@ My research interests include the development of machine learning and deep learn
   
   *bioRxiv 2021; doi: https://doi.org/10.1101/2021.12.12.469460.*
 
-- **An organism-wide atlas of hormonal signaling based on the mouse lemur single-cell transcriptome. \[[bioRxiv](https://www.biorxiv.org/content/10.1101/2021.12.13.472243v1)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
-  
-  Shixuan Liu, Camille Ezran, Michael F. Z. Wang, Zhengda Li, **The Tabula Microcebus Consortium**†, Jonathon Z. Long, Iwijn De Vlaminck, Sheng Wang, Christin Kuo, Jacques Epelbaum, Jeremy Terrien, Mark A. Krasnow#, James E. Ferrell, Jr.#.
-  
-  †Gefei Wang is a member of the Tabula Microcebus Consortium.
-  
-  *bioRxiv 2021; doi: https://doi.org/10.1101/2021.12.13.472243.*
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -100,10 +108,6 @@ My research interests include the development of machine learning and deep learn
 - *2019.05*, Outstanding Graduate, Beijing Normal University. 
 - *2018.12*, National Scholarship, Ministry of Education of the People's Republic of China. 
 - *2016.12, 2017.12 and 2018.12*, First-class Scholarship, Beijing Normal University. 
-
-# 🎓 Educations
-- *2019.09 - 2023.08*, Ph.D. in Mathematics, The Hong Kong University of Science and Technology. Advisors: Prof. Can Yang and Prof. Yang Wang.
-- *2015.09 - 2019.06*, B.Sc. in Mathematics and Applied Mathematics, Beijing Normal University. 
 
 # 💬 Invited Talks
 - *2023.11*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks, Genome and AI Forum.
