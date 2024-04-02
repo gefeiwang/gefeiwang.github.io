@@ -110,9 +110,10 @@ My research interests include the development of machine learning and deep learn
 - *2016.12, 2017.12 and 2018.12*, First-class Scholarship, Beijing Normal University. 
 
 # 💬 Invited Talks
-- *2023.11*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks, Genome and AI Forum.
-- *2023.03*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks, Capital of Statistics. \[[Video link](https://www.bilibili.com/video/BV1s24y1L7ku)\]
-- *2021.07*, Deep Generative Learning via Schrödinger Bridge, The First Zhuhai-Hong Kong-Macao Forum on Statistics and Data Science. 
+- *2023.11*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. Genome and AI Forum.
+- *2023.03*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. Capital of Statistics. \[[Video link](https://www.bilibili.com/video/BV1s24y1L7ku)\]
+- *2021.07*, Deep Generative Learning via Schrödinger Bridge. The First Zhuhai-Hong Kong-Macao Forum on Statistics and Data Science.
+- *2021.07*, Deep Generative Learning via Schrödinger Bridge. Invited talk at Dongbei University of Finance and Economics.
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
