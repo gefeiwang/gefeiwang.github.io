@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "Professional Experience"
-    url: "/#professional-experience"
+    url: "/#-professional-experience"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
     
   - title: "Publications and Preprints"
     url: "/#-publications-and-preprints"
