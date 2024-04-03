@@ -3,14 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Professional Experience"
+    url: "/#professional-experience"
 
   - title: "Educations"
     url: "/#-educations"
+    
+  - title: "Publications and Preprints"
+    url: "/#-publications-and-preprints"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
