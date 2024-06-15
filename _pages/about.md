@@ -54,7 +54,7 @@ My research interests include the development of machine learning and deep learn
 - **An organism-wide atlas of hormonal signaling based on the mouse lemur single-cell transcriptome. \[[Nature Communications](https://www.nature.com/articles/s41467-024-46070-9)\] \[[bioRxiv](https://doi.org/10.1101/2021.12.13.472243)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
   Shixuan Liu, Camille Ezran, Michael F. Z. Wang, Zhengda Li, **The Tabula Microcebus Consortium**†, Jonathon Z. Long, Iwijn De Vlaminck, Sheng Wang, Christin Kuo, Jacques Epelbaum, Jeremy Terrien, Mark A. Krasnow#, James E. Ferrell, Jr.#.
-  
+
   †Gefei Wang is a member of the Tabula Microcebus Consortium.
   
   *Nature Communications. 2024, 15(1): 2188.*
@@ -67,7 +67,9 @@ My research interests include the development of machine learning and deep learn
 
 - **Adversarial domain translation networks for integrating large-scale atlas-level single-cell datasets. \[[Nature Computational Science](https://www.nature.com/articles/s43588-022-00251-y)\] \[[Read fulltext](https://rdcu.be/cOCbU)\] \[[bioRvix](https://doi.org/10.1101/2021.11.16.468892)\] \[[Blog](https://communities.springernature.com/posts/adversarial-domain-translation-networks-for-integrating-large-scale-atlas-level-single-cell-datasets)\] \[[Software](https://github.com/YangLabHKUST/Portal)\]**
 
-  Jia Zhao\*, **Gefei Wang**\*, Jingsi Ming, Zhixiang Lin, Yang Wang, The Tabula Microcebus Consortium†, Angela Ruohao Wu#, Can Yang#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  Jia Zhao\*, **Gefei Wang**\*, Jingsi Ming, Zhixiang Lin, Yang Wang, **The Tabula Microcebus Consortium**†, Angela Ruohao Wu#, Can Yang#.
+
+  †Gefei Wang is a member of the Tabula Microcebus Consortium.
 
   *Nature Computational Science. 2022, 2(5): 317-330.*
 
@@ -82,14 +84,14 @@ My research interests include the development of machine learning and deep learn
 - **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
   **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake#, Mark A. Krasnow#.
-  
+
   †Gefei Wang is a member of the Tabula Microcebus Consortium.
   
   *bioRxiv 2022; doi: https://doi.org/10.1101/2022.08.06.503035.*
   
 - **Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. \[[bioRxiv](https://doi.org/10.1101/2021.12.12.469460)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
-  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree,  Kyle J. Travaglini, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff,  Angela Wu, Stephen R. Quake#, Mark A. Krasnow#. 
+  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree, Kyle J. Travaglini, Jia Zhao, **Gefei Wang**, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell, Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#.
   
   †Gefei Wang is a member of the Tabula Microcebus Consortium.
   
