@@ -81,6 +81,18 @@ My research interests include the development of machine learning and deep learn
 
 ## Preprints
 
+- **scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. \[[bioRxiv](https://doi.org/10.1101/2024.10.01.616142)\] \[[Software](https://github.com/gefeiwang/scMODAL)\] \[[Project Website](https://doi.org/10.1101/2024.10.01.616142)\]**
+
+  **Gefei Wang**, Jia Zhao, Yingxin Lin, Tianyu Liu, Yize Zhao, Hongyu Zhao#.
+
+  *bioRxiv 2024; doi: https://doi.org/10.1101/2024.10.01.616142.*
+
+- **INSPIRE: interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Project Website](https://inspire-tutorial.readthedocs.io/en/latest/)\]**
+
+  Jia Zhao, Xiangyu Zhang, **Gefei Wang**, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao#.
+
+  *bioRxiv 2024; doi: https://doi.org/10.1101/2024.09.23.614539.*
+
 - **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
   **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake#, Mark A. Krasnow#.
