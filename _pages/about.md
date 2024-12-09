@@ -81,6 +81,12 @@ My research interests include the development of machine learning and deep learn
 
 ## Preprints
 
+- **Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA. \[[bioRxiv](https://doi.org/10.1101/2024.12.04.626878)\] \[[Software](https://github.com/gefeiwang/scLAMBDA)\]**
+
+  **Gefei Wang**, Tianyu Liu, Jia Zhao, Youshu Cheng, Hongyu Zhao#.
+
+  *bioRxiv 2024; https://doi.org/10.1101/2024.12.04.626878.*
+  
 - **scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. \[[bioRxiv](https://doi.org/10.1101/2024.10.01.616142)\] \[[Software](https://github.com/gefeiwang/scMODAL)\] \[[Project Website](https://doi.org/10.1101/2024.10.01.616142)\]**
 
   **Gefei Wang**, Jia Zhao, Yingxin Lin, Tianyu Liu, Yize Zhao, Hongyu Zhao#.
