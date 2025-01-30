@@ -139,7 +139,7 @@ My research interests include the development of machine learning and deep learn
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 📚 Academic Service
-Reviewer for *Nature Communications*, *Human Genomics* and *Annals of Applied Statistics*.
+Reviewer for *Nature Biotechnology*, *Nature Communications*, *Human Genomics* and *Annals of Applied Statistics*.
 
 # 📖 Teaching
 - *2022.09 - 2022.12*, MATH 3423 Statistical Inference, Teaching Assistant, HKUST. 
