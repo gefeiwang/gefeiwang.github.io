@@ -8,56 +8,71 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+\* Joint first authors. # Corresponding authors.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Publications
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **An organism-wide atlas of hormonal signaling based on the mouse lemur single-cell transcriptome. \[[Nature Communications](https://www.nature.com/articles/s41467-024-46070-9)\] \[[bioRxiv](https://doi.org/10.1101/2021.12.13.472243)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  Shixuan Liu, Camille Ezran, Michael F. Z. Wang, Zhengda Li, **The Tabula Microcebus Consortium**†, Jonathon Z. Long, Iwijn De Vlaminck, Sheng Wang, Christin Kuo, Jacques Epelbaum, Jeremy Terrien, Mark A. Krasnow#, James E. Ferrell, Jr.#.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  †Gefei Wang is a member of the Tabula Microcebus Consortium.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  *Nature Communications. 2024, 15(1): 2188.*
+
+- **Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. \[[Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00734-1)\] \[[Read fulltext](https://rdcu.be/doZ9u)\] \[[bioRxiv](https://doi.org/10.1101/2023.02.02.526814)\] \[[Software](https://github.com/YangLabHKUST/STitch3D)\] \[[Project Website](https://stitch3d-tutorial.readthedocs.io/en/latest/index.html)\]**
+
+  **Gefei Wang**\*, Jia Zhao\*, Yan Yan, Yang Wang, Angela Ruohao Wu#, Can Yang#.
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  *Nature Machine Intelligence. 2023, 5(11): 1200–1213.*
+
+- **Adversarial domain translation networks for integrating large-scale atlas-level single-cell datasets. \[[Nature Computational Science](https://www.nature.com/articles/s43588-022-00251-y)\] \[[Read fulltext](https://rdcu.be/cOCbU)\] \[[bioRvix](https://doi.org/10.1101/2021.11.16.468892)\] \[[Blog](https://communities.springernature.com/posts/adversarial-domain-translation-networks-for-integrating-large-scale-atlas-level-single-cell-datasets)\] \[[Software](https://github.com/YangLabHKUST/Portal)\]**
+
+  Jia Zhao\*, **Gefei Wang**\*, Jingsi Ming, Zhixiang Lin, Yang Wang, **The Tabula Microcebus Consortium**†, Angela Ruohao Wu#, Can Yang#.
+
+  †Gefei Wang is a member of the Tabula Microcebus Consortium.
+
+  *Nature Computational Science. 2022, 2(5): 317-330.*
+
+- **Deep Generative Learning via Schrödinger Bridge. \[[ICML](https://proceedings.mlr.press/v139/wang21l.html)\] \[[arXiv](https://arxiv.org/abs/2106.10410)\] \[[Code](https://github.com/YangLabHKUST/DGLSB)\]**
+
+  **Gefei Wang**, Yuling Jiao#, Qian Xu, Yang Wang, Can Yang#.
+
+  *International Conference on Machine Learning. 2021, 10794-10804.*
+
+## Preprints
+
+- **Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA. \[[bioRxiv](https://doi.org/10.1101/2024.12.04.626878)\] \[[Software](https://github.com/gefeiwang/scLAMBDA)\]**
+
+  **Gefei Wang**, Tianyu Liu, Jia Zhao, Youshu Cheng, Hongyu Zhao#.
+
+  *bioRxiv 2024; https://doi.org/10.1101/2024.12.04.626878.*
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. \[[bioRxiv](https://doi.org/10.1101/2024.10.01.616142)\] \[[Software](https://github.com/gefeiwang/scMODAL)\] \[[Project Website](https://doi.org/10.1101/2024.10.01.616142)\]**
+
+  **Gefei Wang**, Jia Zhao, Yingxin Lin, Tianyu Liu, Yize Zhao, Hongyu Zhao#.
+
+  *bioRxiv 2024; doi: https://doi.org/10.1101/2024.10.01.616142.*
+
+- **INSPIRE: interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Project Website](https://inspire-tutorial.readthedocs.io/en/latest/)\]**
+
+  Jia Zhao, Xiangyu Zhang, **Gefei Wang**, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao#.
+
+  *bioRxiv 2024; doi: https://doi.org/10.1101/2024.09.23.614539.*
+
+- **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+  
+  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake#, Mark A. Krasnow#.
+
+  †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  
+  *bioRxiv 2022; doi: https://doi.org/10.1101/2022.08.06.503035.*
+  
+- **Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. \[[bioRxiv](https://doi.org/10.1101/2021.12.12.469460)\] \[[Project Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+  
+  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree, Kyle J. Travaglini, Jia Zhao, **Gefei Wang**, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell, Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#.
+  
+  †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  
+  *bioRxiv 2021; doi: https://doi.org/10.1101/2021.12.12.469460.*
