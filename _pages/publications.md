@@ -49,7 +49,7 @@ author_profile: true
 
   *bioRxiv 2024; https://doi.org/10.1101/2024.12.04.626878.*
   
-- **scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. \[[bioRxiv](https://doi.org/10.1101/2024.10.01.616142)\] \[[Software](https://github.com/gefeiwang/scMODAL)\] \[[Project Website](https://doi.org/10.1101/2024.10.01.616142)\]**
+- **scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. \[[bioRxiv](https://doi.org/10.1101/2024.10.01.616142)\] \[[Software](https://github.com/gefeiwang/scMODAL)\] \[[Project Website](https://scmodal-tutorial.readthedocs.io/en/latest/)\]**
 
   **Gefei Wang**, Jia Zhao, Yingxin Lin, Tianyu Liu, Yize Zhao, Hongyu Zhao#.
 
