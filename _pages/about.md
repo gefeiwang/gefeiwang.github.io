@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a postdoctoral associate in the Department of Biostatistics at Yale University, advised by [Prof. Hongyu Zhao](https://zhaocenter.org/index.html). I was also fortunate to be jointly advised by [Prof. Yize Zhao](https://www.yizezhao.com/) during 2023-2024. I completed my Ph.D. at the Hong Kong University of Science and Technology in 2023, under the supervision of [Prof. Can Yang](https://sites.google.com/site/eeyangc/) and [Prof. Yang Wang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yang-wang-yangwang).
 
-My research interests include the development of machine learning and deep learning methdologies with applications in biological data analysis.
+My research interests include the development of machine learning and deep learning methdologies with applications in multi-omics data analysis.
 
 💻 Professional Experience
 ------
