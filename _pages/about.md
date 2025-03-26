@@ -20,6 +20,22 @@ Education
 - *2019.09 - 2023.08*, Ph.D. in Mathematics, Department of Mathematics, The Hong Kong University of Science and Technology.
 - *2015.09 - 2019.06*, B.S. in Mathematics and Applied Mathematics, School of Mathematical Sciences, Beijing Normal University.
 
+Honors and Awards
+------
+- *2022.05 and 2023.05*, HKUST RedBird Academic Excellence Award, HKUST.
+- *2022.05*, Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST.
+- *2022.05*, Epsilon Fund Award, Department of Mathematics, HKUST.
+- *2019.11*, HKUST Excellent Research Award, HKUST. 
+- *2019.09 - 2023.08*, Hong Kong PhD Fellowship, Research Grants Council, University Grants Committee. 
+- *2019.05*, Outstanding Graduate, Beijing Municipal Commission of Education. 
+- *2019.05*, Outstanding Graduate, Beijing Normal University. 
+- *2018.12*, National Scholarship, Ministry of Education of the People's Republic of China. 
+- *2016.12, 2017.12 and 2018.12*, First-class Scholarship, Beijing Normal University.
+
+Academic Service
+------
+Reviewer for *Nature Biotechnology*, *Nature Communications*, *BMC Genomics*, *Human Genomics* and *Annals of Applied Statistics*.
+
 Contact
 ------
 - Email: gefei.wang@yale.edu
