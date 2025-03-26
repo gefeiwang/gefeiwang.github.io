@@ -11,16 +11,16 @@ I am currently a postdoctoral associate in the Department of Biostatistics at Ya
 
 My research interests include the development of machine learning and deep learning methdologies with applications in biological data analysis.
 
-Professional Experience
+💻 Professional Experience
 ------
 - *2023.10 - Now*, Postdoctoral Associate, Department of Biostatistics, Yale University.
 
-Education
+🎓 Education
 ------
 - *2019.09 - 2023.08*, Ph.D. in Mathematics, Department of Mathematics, The Hong Kong University of Science and Technology.
 - *2015.09 - 2019.06*, B.S. in Mathematics and Applied Mathematics, School of Mathematical Sciences, Beijing Normal University.
 
-Honors and Awards
+🎖 Honors and Awards
 ------
 - *2022.05 and 2023.05*, HKUST RedBird Academic Excellence Award, HKUST.
 - *2022.05*, Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST.
@@ -32,11 +32,11 @@ Honors and Awards
 - *2018.12*, National Scholarship, Ministry of Education of the People's Republic of China. 
 - *2016.12, 2017.12 and 2018.12*, First-class Scholarship, Beijing Normal University.
 
-Academic Service
+📚 Academic Service
 ------
 Reviewer for *Nature Biotechnology*, *Nature Communications*, *BMC Genomics*, *Human Genomics* and *Annals of Applied Statistics*.
 
-Contact
+✉️ Contact
 ------
 - Email: gefei.wang@yale.edu
 - Address: 300 George Street, New Haven, CT 06511
