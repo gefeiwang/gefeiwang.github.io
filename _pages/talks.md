@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Talks
+Talks and presentations
 ======
 - *2023.11*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. Genome and AI Forum.
 - *2023.03*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. Capital of Statistics. \[[Video link](https://www.bilibili.com/video/BV1s24y1L7ku)\]
