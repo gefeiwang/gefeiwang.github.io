@@ -8,7 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching
 ======
 - *2022.09 - 2022.12*, MATH 3423 Statistical Inference, Teaching Assistant, HKUST. 
 - *2022.02 - 2022.05*, MATH 2421 Probability, Teaching Assistant, HKUST. 
