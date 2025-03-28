@@ -35,7 +35,7 @@ author_profile: true
 
   *Nature Computational Science. 2022, 2(5): 317-330.*
 
-- **Deep Generative Learning via Schrödinger Bridge. \[[ICML](https://proceedings.mlr.press/v139/wang21l.html)\] \[[arXiv](https://arxiv.org/abs/2106.10410)\] \[[Code](https://github.com/YangLabHKUST/DGLSB)\]**
+- **Deep generative learning via Schrödinger bridge. \[[ICML](https://proceedings.mlr.press/v139/wang21l.html)\] \[[arXiv](https://arxiv.org/abs/2106.10410)\] \[[Code](https://github.com/YangLabHKUST/DGLSB)\]**
 
   **Gefei Wang**, Yuling Jiao#, Qian Xu, Yang Wang, Can Yang#.
 
