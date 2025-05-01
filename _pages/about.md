@@ -34,7 +34,7 @@ My research interests include the development of machine learning and deep learn
 
 📚 Academic Service
 ------
-Reviewer for *Nature Biotechnology*, *Nature Communications*, *BMC Genomics*, *Human Genomics* and *Annals of Applied Statistics*.
+Reviewer for *Nature Biotechnology*, *Nature Communications*, *Annals of Applied Statistics*, *Human Genomics*, *Journal of Multivariate Analysis* and *BMC Genomics*.
 
 ✉️ Contact
 ------
