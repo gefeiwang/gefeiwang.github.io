@@ -33,7 +33,19 @@ author_profile: true
 
 ## Other Publications
 
-- **Bayesian Longitudinal Network Regression With Application to Brain Connectome Genetics. \[[Paper](https://doi.org/10.1002/sim.70069)\]**
+- **A molecular cell atlas of mouse lemur, an emerging model primate. \[[bioRxiv](https://doi.org/10.1101/2021.12.12.469460)\] \[[Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+  
+  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree, Kyle J. Travaglini, Jia Zhao, **Gefei Wang**, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell, Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  
+  *Nature. 2025, in press.*
+ 
+- **Mouse lemur cell atlas informs primate genes, physiology, and disease. \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
+  
+  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake#, Mark A. Krasnow#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  
+  *Nature. 2025, in press.*
+  
+- **Bayesian longitudinal network regression with application to brain connectome genetics. \[[Paper](https://doi.org/10.1002/sim.70069)\]**
   
   Chenxi Li\*, Xinyuan Tian\*, Simiao Gao, Selena Wang, **Gefei Wang**, Yi Zhao, Yize Zhao#.
   
@@ -65,14 +77,3 @@ author_profile: true
 
   *bioRxiv 2024; doi: https://doi.org/10.1101/2024.09.23.614539.*
 
-- **Mouse lemur transcriptomic atlas elucidates primate genes, physiology, disease, and evolution. \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
-  
-  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony, Stephen Chang, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Wu, Stephen R. Quake#, Mark A. Krasnow#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
-  
-  *bioRxiv 2022; doi: https://doi.org/10.1101/2022.08.06.503035.*
-  
-- **Tabula Microcebus: A transcriptomic cell atlas of mouse lemur, an emerging primate model organism. \[[bioRxiv](https://doi.org/10.1101/2021.12.12.469460)\] \[[Website](https://tabula-microcebus.ds.czbiohub.org/)\]**
-  
-  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree, Kyle J. Travaglini, Jia Zhao, **Gefei Wang**, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell, Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
-  
-  *bioRxiv 2021; doi: https://doi.org/10.1101/2021.12.12.469460.*
