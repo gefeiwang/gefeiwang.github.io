@@ -13,6 +13,12 @@ author_profile: true
 
 ## Selected Publications
 
+- **scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. \[[bioRxiv](https://doi.org/10.1101/2024.10.01.616142)\] \[[Software](https://github.com/gefeiwang/scMODAL)\] \[[Website](https://scmodal-tutorial.readthedocs.io/en/latest/)\]**
+
+  **Gefei Wang**, Jia Zhao, Yingxin Lin, Tianyu Liu, Yize Zhao, Hongyu Zhao#.
+
+  *Nature Communications. 2025, in press.*
+
 - **Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. \[[Paper](https://www.nature.com/articles/s42256-023-00734-1)\] \[[bioRxiv](https://doi.org/10.1101/2023.02.02.526814)\] \[[Software](https://github.com/YangLabHKUST/STitch3D)\] \[[Website](https://stitch3d-tutorial.readthedocs.io/en/latest/index.html)\]**
 
   **Gefei Wang**\*, Jia Zhao\*, Yan Yan, Yang Wang, Angela Ruohao Wu#, Can Yang#.
@@ -65,12 +71,6 @@ author_profile: true
 
   *bioRxiv 2024; https://doi.org/10.1101/2024.12.04.626878.*
   
-- **scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. \[[bioRxiv](https://doi.org/10.1101/2024.10.01.616142)\] \[[Software](https://github.com/gefeiwang/scMODAL)\] \[[Website](https://scmodal-tutorial.readthedocs.io/en/latest/)\]**
-
-  **Gefei Wang**, Jia Zhao, Yingxin Lin, Tianyu Liu, Yize Zhao, Hongyu Zhao#.
-
-  *bioRxiv 2024; doi: https://doi.org/10.1101/2024.10.01.616142.*
-
 - **INSPIRE: interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Website](https://inspire-tutorial.readthedocs.io/en/latest/)\]**
 
   Jia Zhao, Xiangyu Zhang, **Gefei Wang**, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao#.
