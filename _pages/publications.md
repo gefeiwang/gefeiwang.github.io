@@ -57,7 +57,7 @@ author_profile: true
   
   *Statistics in Medicine. 2025, 44(8-9): e70069.*
 
-- **An organism-wide atlas of hormonal signaling based on the mouse lemur single-cell transcriptome. \[[Paper](https://www.nature.com/articles/s41467-024-46070-9)\]**
+- An organism-wide atlas of hormonal signaling based on the mouse lemur single-cell transcriptome. \[[Paper](https://www.nature.com/articles/s41467-024-46070-9)\]
   
   Shixuan Liu, Camille Ezran, Michael F. Z. Wang, Zhengda Li, **The Tabula Microcebus Consortium**†, Jonathon Z. Long, Iwijn De Vlaminck, Sheng Wang, Christin Kuo, Jacques Epelbaum, Jeremy Terrien, Mark A. Krasnow#, James E. Ferrell, Jr.#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
   
