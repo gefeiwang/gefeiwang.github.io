@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-{% include base_path 
+{% include base_path %}
 
 - *2025.08*, Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA. **JSM 2025**. Nashville, TN.
 - *2025.05*, scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. **STATGEN 2025**. Minneapolis, MN.
