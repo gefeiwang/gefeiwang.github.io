@@ -43,13 +43,13 @@ author_profile: true
   
   **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree, Kyle J. Travaglini, Jia Zhao, **Gefei Wang**, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell, Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
   
-  *Nature. 2025.*
+  *Nature. 2025, 644(8075): 173-184.*
  
 - Mouse lemur cell atlas informs primate genes, physiology, and disease. \[[Paper](https://www.nature.com/articles/s41586-025-09114-8)\] \[[News](https://www.nature.com/articles/d41586-025-01584-0)\] \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Website](https://tabula-microcebus.ds.czbiohub.org/)\]
   
   Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony,  **The Tabula Microcebus Consortium**†, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
   
-  *Nature. 2025.*
+  *Nature. 2025, 644(8075): 185-196.*
   
 - Bayesian longitudinal network regression with application to brain connectome genetics. \[[Paper](https://doi.org/10.1002/sim.70069)\]
   
