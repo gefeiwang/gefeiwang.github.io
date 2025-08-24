@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-\* Joint first authors. # Corresponding authors.
+\* Joint first authors. # Corresponding authors. † Consortium membership.
 
 ## Selected Publications
 
@@ -17,7 +17,7 @@ author_profile: true
 
   **Gefei Wang**, Jia Zhao, Yingxin Lin, Tianyu Liu, Yize Zhao, Hongyu Zhao#.
 
-  *Nature Communications. 2025, 16: 4994.*
+  *Nature Communications. 2025, 16(1): 4994.*
 
 - Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. \[[Paper](https://www.nature.com/articles/s42256-023-00734-1)\] \[[bioRxiv](https://doi.org/10.1101/2023.02.02.526814)\] \[[Software](https://github.com/YangLabHKUST/STitch3D)\] \[[Website](https://stitch3d-tutorial.readthedocs.io/en/latest/index.html)\]
 
@@ -41,13 +41,13 @@ author_profile: true
 
 - A molecular cell atlas of mouse lemur, an emerging model primate. \[[Paper](https://www.nature.com/articles/s41586-025-09113-9)\] \[[News](https://www.nature.com/articles/d41586-025-01584-0)\] \[[bioRxiv](https://doi.org/10.1101/2021.12.12.469460)\] \[[Website](https://tabula-microcebus.ds.czbiohub.org/)\]
   
-  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree, Kyle J. Travaglini, Jia Zhao, **Gefei Wang**, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell, Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree, Kyle J. Travaglini, Jia Zhao, **Gefei Wang**, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell, Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#.
   
   *Nature. 2025, 644(8075): 173-184.*
  
 - Mouse lemur cell atlas informs primate genes, physiology, and disease. \[[Paper](https://www.nature.com/articles/s41586-025-09114-8)\] \[[News](https://www.nature.com/articles/d41586-025-01584-0)\] \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Website](https://tabula-microcebus.ds.czbiohub.org/)\]
   
-  Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony,  **The Tabula Microcebus Consortium**†, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony,  **The Tabula Microcebus Consortium**†, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#.
   
   *Nature. 2025, 644(8075): 185-196.*
   
@@ -59,12 +59,18 @@ author_profile: true
 
 - An organism-wide atlas of hormonal signaling based on the mouse lemur single-cell transcriptome. \[[Paper](https://www.nature.com/articles/s41467-024-46070-9)\]
   
-  Shixuan Liu, Camille Ezran, Michael F. Z. Wang, Zhengda Li, **The Tabula Microcebus Consortium**†, Jonathon Z. Long, Iwijn De Vlaminck, Sheng Wang, Christin Kuo, Jacques Epelbaum, Jeremy Terrien, Mark A. Krasnow#, James E. Ferrell, Jr.#. †Gefei Wang is a member of the Tabula Microcebus Consortium.
+  Shixuan Liu, Camille Ezran, Michael F. Z. Wang, Zhengda Li, **The Tabula Microcebus Consortium**†, Jonathon Z. Long, Iwijn De Vlaminck, Sheng Wang, Christin Kuo, Jacques Epelbaum, Jeremy Terrien, Mark A. Krasnow#, James E. Ferrell, Jr.#.
   
   *Nature Communications. 2024, 15(1): 2188.*
 
 ## Preprints
 
+- Improving polygenic risk prediction performance through integrating electronic health records by phenotype embedding. \[[bioRxiv](https://doi.org/10.1101/2025.08.05.668705)\] \[[Software](https://github.com/YCSGP/EEPRS)\]
+
+  Leqi Xu, Wangjie Zheng, Jiaqi Hu, Yingxin Lin, Jia Zhao, **Gefei Wang**, Tianyu Liu, Hongyu Zhao#.
+
+  *bioRxiv 2025; https://doi.org/10.1101/2025.08.05.668705.*
+  
 - Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA. \[[bioRxiv](https://doi.org/10.1101/2024.12.04.626878)\] \[[Software](https://github.com/gefeiwang/scLAMBDA)\]
 
   **Gefei Wang**, Tianyu Liu, Jia Zhao, Youshu Cheng, Hongyu Zhao#.

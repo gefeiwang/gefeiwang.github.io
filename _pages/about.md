@@ -28,14 +28,13 @@ My research interests include the development of machine learning and deep learn
 - *2022.05*, Epsilon Fund Award, Department of Mathematics, HKUST.
 - *2019.11*, HKUST Excellent Research Award, HKUST. 
 - *2019.09 - 2023.08*, Hong Kong PhD Fellowship, Research Grants Council, University Grants Committee. 
-- *2019.05*, Outstanding Graduate, Beijing Municipal Commission of Education. 
-- *2019.05*, Outstanding Graduate, Beijing Normal University. 
+- *2019.05*, Outstanding Graduate, Beijing Normal University and Beijing Municipal Commission of Education. 
 - *2018.12*, National Scholarship, Ministry of Education of the People's Republic of China. 
 - *2016.12, 2017.12 and 2018.12*, First-class Scholarship, Beijing Normal University.
 
 📚 Academic Service
 ------
-Reviewer for *Nature Biotechnology*, *Nature Communications*, *Annals of Applied Statistics*, *Human Genomics*, *Journal of Multivariate Analysis*, *PLOS Computational Biology* and *BMC Genomics*.
+Reviewer for *Nature Biotechnology*, *Nature Communications*, *Annals of Applied Statistics*, *PLOS Computational Biology*, *Human Genomics*, *Journal of Multivariate Analysis* and *BMC Genomics*.
 
 ✉️ Contact
 ------
