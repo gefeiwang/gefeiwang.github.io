@@ -65,6 +65,12 @@ author_profile: true
 
 ## Preprints
 
+- Brain functional-structural gradient coupling reflects development, behavior and genetic influences. \[[medRxiv](https://doi.org/10.1101/2025.09.16.25335918)\]
+
+  Simiao Gao\*, Zhiling Gu\*, Shengxian Ding\*, **Gefei Wang**, Zhengwu Zhang, Hongyu Zhao, Yize Zhao#.
+
+  *medRxiv 2025; https://doi.org/10.1101/2025.09.16.25335918.*
+  
 - Improving polygenic risk prediction performance through integrating electronic health records by phenotype embedding. \[[bioRxiv](https://doi.org/10.1101/2025.08.05.668705)\] \[[Software](https://github.com/YCSGP/EEPRS)\]
 
   Leqi Xu, Wangjie Zheng, Jiaqi Hu, Yingxin Lin, Jia Zhao, **Gefei Wang**, Tianyu Liu, Hongyu Zhao#.

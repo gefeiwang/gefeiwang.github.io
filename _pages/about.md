@@ -22,6 +22,7 @@ My research interests include the development of machine learning and deep learn
 
 🎖 Honors and Awards
 ------
+- *2025.09*, STATGEN 2025 Travel Award.
 - *2023.05*, HKPFS Extra Funding Award for Outstanding Academic and Research Performance, School of Science, HKUST.
 - *2022.05 and 2023.05*, HKUST RedBird Academic Excellence Award, HKUST.
 - *2022.05*, Din-Yu Hsieh Teaching Award, Department of Mathematics, HKUST.
