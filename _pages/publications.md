@@ -11,8 +11,6 @@ author_profile: true
 
 \* Joint first authors. # Corresponding authors. † Consortium membership.
 
-## Publications and Preprints
-
 ### 2025
 
 - **Gefei Wang**, Jia Zhao, Yingxin Lin, Tianyu Liu, Yize Zhao, Hongyu Zhao#. scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. **Nature Communications**. 2025. \[[Paper](https://www.nature.com/articles/s41467-025-60333-z)\] \[[bioRxiv](https://doi.org/10.1101/2024.10.01.616142)\] \[[Software](https://github.com/gefeiwang/scMODAL)\] \[[Website](https://scmodal-tutorial.readthedocs.io/en/latest/)\]
