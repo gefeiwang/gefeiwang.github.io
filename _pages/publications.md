@@ -11,11 +11,15 @@ author_profile: true
 
 \* Joint first authors. # Corresponding authors. † Consortium membership.
 
+### 2026
+
+- Jia Zhao, Xiangyu Zhang, **Gefei Wang**, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao#. Interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. **Nature Genetics**. 2026, in press. \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Website](https://inspire-tutorial.readthedocs.io/en/latest/)\]
+
+- Simiao Gao\*, Zhiling Gu\*, Shengxian Ding\*, **Gefei Wang**, Zhengwu Zhang, Hongyu Zhao, Yize Zhao#. Brain functional-structural gradient coupling reflects development, behavior and genetic influences. **Nature Communications**. 2026, in press. \[[medRxiv](https://doi.org/10.1101/2025.09.16.25335918)\]
+
 ### 2025
 
 - **Gefei Wang**, Jia Zhao, Yingxin Lin, Tianyu Liu, Yize Zhao, Hongyu Zhao#. scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. **Nature Communications**. 2025. \[[Paper](https://www.nature.com/articles/s41467-025-60333-z)\] \[[bioRxiv](https://doi.org/10.1101/2024.10.01.616142)\] \[[Software](https://github.com/gefeiwang/scMODAL)\] \[[Website](https://scmodal-tutorial.readthedocs.io/en/latest/)\]
-
-- Jia Zhao, Xiangyu Zhang, **Gefei Wang**, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao#. INSPIRE: interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. **Nature Genetics**. 2025+, in press. \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Website](https://inspire-tutorial.readthedocs.io/en/latest/)\]
 
 - Leqi Xu, Wangjie Zheng, Jiaqi Hu, Yingxin Lin, Jia Zhao, **Gefei Wang**, Tianyu Liu, Hongyu Zhao#. Improving polygenic risk prediction performance by integrating electronic health records through phenotype embedding. **The American Journal of Human Genetics**. 2025. \[[Paper](https://doi.org/10.1016/j.ajhg.2025.11.006)\] \[[bioRxiv](https://doi.org/10.1101/2025.08.05.668705)\] \[[Software](https://github.com/YCSGP/EEPRS)\]
 
@@ -24,8 +28,6 @@ author_profile: true
 - Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony,  **The Tabula Microcebus Consortium**†, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#. Mouse lemur cell atlas informs primate genes, physiology, and disease. **Nature**. 2025. \[[Paper](https://www.nature.com/articles/s41586-025-09114-8)\] \[[News](https://www.nature.com/articles/d41586-025-01584-0)\] \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Website](https://tabula-microcebus.ds.czbiohub.org/)\]
 
 - Chenxi Li\*, Xinyuan Tian\*, Simiao Gao, Selena Wang, **Gefei Wang**, Yi Zhao, Yize Zhao#. Bayesian longitudinal network regression with application to brain connectome genetics. **Statistics in Medicine**. 2025. \[[Paper](https://doi.org/10.1002/sim.70069)\]
-
-- Simiao Gao\*, Zhiling Gu\*, Shengxian Ding\*, **Gefei Wang**, Zhengwu Zhang, Hongyu Zhao, Yize Zhao#. **medRxiv**. 2025. Brain functional-structural gradient coupling reflects development, behavior and genetic influences. \[[medRxiv](https://doi.org/10.1101/2025.09.16.25335918)\]
 
 ### 2024
 
