@@ -13,9 +13,9 @@ author_profile: true
 
 ### 2026
 
-- Jia Zhao, Xiangyu Zhang, **Gefei Wang**, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao#. Interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. **Nature Genetics**. 2026, in press. \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\] \[[Software](https://github.com/jiazhao97/INSPIRE)\] \[[Website](https://inspire-tutorial.readthedocs.io/en/latest/)\]
+- Jia Zhao, Xiangyu Zhang, **Gefei Wang**, Yingxin Lin, Tianyu Liu, Rui B. Chang, Hongyu Zhao#. Interpretable, flexible and spatially-aware integration of multiple spatial transcriptomics datasets from diverse sources. **Nature Genetics**. 2026. \[[Paper](https://www.nature.com/articles/s41588-026-02579-x)\] \[[bioRxiv](https://doi.org/10.1101/2024.09.23.614539)\]
 
-- Simiao Gao\*, Zhiling Gu\*, Shengxian Ding\*, **Gefei Wang**, Zhengwu Zhang, Hongyu Zhao, Yize Zhao#. Brain functional-structural gradient coupling reflects development, behavior and genetic influences. **Nature Communications**. 2026, in press. \[[medRxiv](https://doi.org/10.1101/2025.09.16.25335918)\]
+- Simiao Gao\*, Zhiling Gu\*, Shengxian Ding\*, **Gefei Wang**, Zhengwu Zhang, Hongyu Zhao, Yize Zhao#. Brain functional-structural gradient coupling reflects development, behavior and genetic influences. **Nature Communications**. 2026. \[[Paper](https://www.nature.com/articles/s41467-026-71719-y)\] \[[medRxiv](https://doi.org/10.1101/2025.09.16.25335918)\]
 
 ### 2025
 
@@ -26,6 +26,8 @@ author_profile: true
 - **The Tabula Microcebus Consortium**†, Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Olga Botvinnik, Lolita Penland, Alexander Tarashansky, Antoine de Morree, Kyle J. Travaglini, Jia Zhao, **Gefei Wang**, Kazuteru Hasegawa, Hosu Sin, Rene Sit, Jennifer Okamoto, Rahul Sinha, Yue Zhang, Caitlin J. Karanewsky, Jozeph L. Pendleton, Maurizio Morri, Martine Perret, Fabienne Aujard, Lubert Stryer, Steven Artandi, Margaret Fuller, Irving L. Weissman, Thomas A. Rando, James E. Ferrell, Jr., Bo Wang, Iwijn De Vlaminck, Can Yang, Kerriann M. Casey, Megan A. Albertelli, Angela Oliveira Pisco, Jim Karkanias, Norma Neff, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#. A molecular cell atlas of mouse lemur, an emerging model primate. **Nature**. 2025. \[[Paper](https://www.nature.com/articles/s41586-025-09113-9)\] \[[News](https://www.nature.com/articles/d41586-025-01584-0)\] \[[bioRxiv](https://doi.org/10.1101/2021.12.12.469460)\] \[[Website](https://tabula-microcebus.ds.czbiohub.org/)\]
 
 - Camille Ezran\*, Shixuan Liu\*, Stephen Chang\*, Jingsi Ming, Lisbeth A. Guethlein, Michael F.Z. Wang, Roozbeh Dehghannasiri, Julia Olivieri, Hannah K. Frank, Alexander Tarashansky, Winston Koh, Qiuyu Jing, Olga Botvinnik, Jane Antony,  **The Tabula Microcebus Consortium**†, Angela Oliveira Pisco, Jim Karkanias, Can Yang, James E. Ferrell Jr., Scott D. Boyd, Peter Parham, Jonathan Z. Long, Bo Wang, Julia Salzman, Iwijn De Vlaminck, Angela Ruohao Wu, Stephen R. Quake#, Mark A. Krasnow#. Mouse lemur cell atlas informs primate genes, physiology, and disease. **Nature**. 2025. \[[Paper](https://www.nature.com/articles/s41586-025-09114-8)\] \[[News](https://www.nature.com/articles/d41586-025-01584-0)\] \[[bioRxiv](https://doi.org/10.1101/2022.08.06.503035)\] \[[Website](https://tabula-microcebus.ds.czbiohub.org/)\]
+
+- Tianyu Liu, **Gefei Wang**, Yu Li, Wengong Jin, Hongyu Zhao#. A multi-modal foundation model across species for interpreting gene functions. **NeurIPS 2025 2nd Workshop FM4LS**. 2025. \[[Paper](https://openreview.net/pdf?id=U1DWJKbNte)\]
 
 - Chenxi Li\*, Xinyuan Tian\*, Simiao Gao, Selena Wang, **Gefei Wang**, Yi Zhao, Yize Zhao#. Bayesian longitudinal network regression with application to brain connectome genetics. **Statistics in Medicine**. 2025. \[[Paper](https://doi.org/10.1002/sim.70069)\]
 
