@@ -17,6 +17,8 @@ author_profile: true
 
 - Simiao Gao\*, Zhiling Gu\*, Shengxian Ding\*, **Gefei Wang**, Zhengwu Zhang, Hongyu Zhao, Yize Zhao#. Brain functional-structural gradient coupling reflects development, behavior and genetic influences. **Nature Communications**. 2026. \[[Paper](https://www.nature.com/articles/s41467-026-71719-y)\] \[[medRxiv](https://doi.org/10.1101/2025.09.16.25335918)\]
 
+- Jia Zhao, Xinning Shan, **Gefei Wang**, Tinyi Chu, Chen Lin, Rui Chang, Hongyu Zhao#. Spatial co-expression and cell-cell communication inference from spatially resolved transcriptomics with CONCISE. **bioRxiv**. 2026. \[[bioRxiv](https://doi.org/10.64898/2026.06.22.733860)\]
+
 ### 2025
 
 - **Gefei Wang**, Jia Zhao, Yingxin Lin, Tianyu Liu, Yize Zhao, Hongyu Zhao#. scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. **Nature Communications**. 2025. \[[Paper](https://www.nature.com/articles/s41467-025-60333-z)\] \[[bioRxiv](https://doi.org/10.1101/2024.10.01.616142)\] \[[Software](https://github.com/gefeiwang/scMODAL)\] \[[Website](https://scmodal-tutorial.readthedocs.io/en/latest/)\]

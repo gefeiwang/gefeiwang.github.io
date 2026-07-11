@@ -10,7 +10,8 @@ author_profile: true
 
 Employment
 ------
-- *2023 - Now*, Postdoctoral Associate, Department of Biostatistics, Yale University.
+- *2026 - Now*, Assistant Professor, School of Data Science, Fudan University.
+- *2023 - 2026*, Postdoctoral Associate, Department of Biostatistics, Yale University.
 
 Education
 ------
@@ -26,9 +27,6 @@ Honors
 - *2022.05*, Epsilon Fund Award, Department of Mathematics, HKUST.
 - *2019.11*, HKUST Excellent Research Award, HKUST. 
 - *2019.09 - 2023.08*, Hong Kong PhD Fellowship, Research Grants Council, University Grants Committee. 
-- *2019.05*, Outstanding Graduate, Beijing Normal University and Beijing Municipal Commission of Education. 
-- *2018.12*, National Scholarship, Ministry of Education of the People's Republic of China. 
-- *2016.12, 2017.12 and 2018.12*, First-class Scholarship, Beijing Normal University.
 
 Academic Service
 ------
@@ -45,4 +43,7 @@ Reviewer for
 - *Computer Methods and Programs in Biomedicine*
 - *Computational and Structural Biotechnology Journal*
 - *BMC Genomics*
+- *Medical Oncology*
+- *Scientific Reports*
 - *Frontiers in Neuroscience*
+- *PLOS One*

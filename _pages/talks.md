@@ -8,9 +8,11 @@ author_profile: true
 
 {% include base_path %}
 
+- *2026.07*, Building virtual cells: Deep generative AI for decoding and predicting single-cell behavior. **Workshop on Biostatistics and AI, CUHK-Shenzhen**. Shenzhen.
+- *2026.06*, Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA. **ICSA China 2026**. Shenzhen.
 - *2025.10*, Building virtual cells: Deep generative AI for decoding and predicting single-cell behavior. **Invited talk at the School of Computing and Data Science, HKU**. Online.
-- *2025.08*, Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA. **JSM 2025**. Nashville, TN.
-- *2025.05*, scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. **STATGEN 2025**. Minneapolis, MN.
+- *2025.08*, Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA. **JSM 2025**. Nashville.
+- *2025.05*, scMODAL: A general deep learning framework for comprehensive single-cell multi-omics data alignment with feature links. **STATGEN 2025**. Minneapolis.
 - *2023.11*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. **Genome and AI Forum**. Online.
 - *2023.03*, Construction of a 3D whole organism spatial atlas by joint modelling of multiple slices with deep neural networks. **Capital of Statistics**. Online. \[[Video link](https://www.bilibili.com/video/BV1s24y1L7ku)\]
 - *2021.07*, Deep Generative Learning via Schrödinger Bridge. **The First Zhuhai-Hong Kong-Macao Forum on Statistics and Data Science**. Online.

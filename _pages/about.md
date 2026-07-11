@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral associate in the Department of Biostatistics at Yale University, advised by [Prof. Hongyu Zhao](https://zhaocenter.org/index.html). I completed my Ph.D. at the Hong Kong University of Science and Technology in 2023, under the supervision of [Prof. Can Yang](https://sites.google.com/site/eeyangc/) and [Prof. Yang Wang](https://www.presidentsoffice.hku.hk/leadership/professor-yang-wang).
+I am currently an Assistant Professor in the School of Data Science at Fudan University. 
 
-My research interests focus on the development of machine learning and AI methodologies, with applications in computational biology and biomedical data science.
+Before that, I was a Postdoctoral Associate in the Department of Biostatistics at Yale University, advised by [Prof. Hongyu Zhao](https://zhaocenter.org/index.html). I received my Ph.D. at the Hong Kong University of Science and Technology in 2023, under the supervision of [Prof. Can Yang](https://sites.google.com/site/eeyangc/) and [Prof. Yang Wang](https://www.presidentsoffice.hku.hk/leadership/professor-yang-wang).
+
+Our group develops machine learning, artificial intelligence, and statistical methods, with applications in computational biology and biomedical data science. We are particularly interested in developing AI-driven computational methods for single-cell and spatial omics, including generative modeling and foundation models, to understand biological systems and human disease.
+
+We are actively looking for motivated people to join our group. If you are interested, please send me your CV via email.
 
 Selected Publications
 ------
@@ -75,8 +79,6 @@ Selected Publications
 
 Contact
 ------
-- Email: gefei.wang@yale.edu
-- Address: 300 George Street, New Haven, CT 06511
-
-
+- Email: wanggefei@fudan.edu.cn
+- Address: 417 Building C, 579 Guoquan Rd, Shanghai
 
