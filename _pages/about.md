@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently an Assistant Professor in the School of Data Science at Fudan University. 
 
-Before that, I was a Postdoctoral Associate in the Department of Biostatistics at Yale University, advised by [Prof. Hongyu Zhao](https://zhaocenter.org/index.html). I received my Ph.D. at the Hong Kong University of Science and Technology in 2023, under the supervision of [Prof. Can Yang](https://sites.google.com/site/eeyangc/) and [Prof. Yang Wang](https://www.presidentsoffice.hku.hk/leadership/professor-yang-wang).
+Before that, I was a Postdoctoral Associate in the Department of Biostatistics at Yale University, advised by [Prof. Hongyu Zhao](https://zhaocenter.org/index.html). I received my Ph.D. from the Hong Kong University of Science and Technology in 2023, under the supervision of [Prof. Can Yang](https://sites.google.com/site/eeyangc/) and [Prof. Yang Wang](https://www.presidentsoffice.hku.hk/leadership/professor-yang-wang).
 
 Our group develops machine learning, artificial intelligence, and statistical methods, with applications in computational biology and biomedical data science. We are particularly interested in developing AI-driven computational methods for single-cell and spatial omics, including generative modeling and foundation models, to understand biological systems and human disease.
 
